@@ -13,7 +13,6 @@ Here are some questions that we'd like to be able to answer:
 - How many pizzas are typically in an order? Do we have any bestsellers?
 - How much money did we make this year? Can we identify any seasonality in the sales?
 - Are there any pizzas we should take off the menu, or any promotions we could leverage?
-- How many pizzas are we making during peak periods?
 - What's our average order value?
 - How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
 
